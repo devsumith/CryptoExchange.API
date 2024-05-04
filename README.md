@@ -8,9 +8,7 @@ A .Net wrapper for the OKX API as described on [OKX](https://www.okx.com/docs-v5
 
 Donations are greatly appreciated and a motivation to keep improving.
 
-**BTC**:  33WbRKqt7wXARVdAJSu1G1x3QnbyPtZ2bH  
-**ETH**:  0x65b02db9b67b73f5f1e983ae10796f91ded57b64  
-**USDT (TRC-20)**:  TXwqoD7doMESgitfWa8B2gHL7HuweMmNBJ  
+**ETH**:  0xd86C29abd2cAB384E811006ABBcC7C5f50687793  
 
 ## Installation
 
